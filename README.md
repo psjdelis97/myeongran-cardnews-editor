@@ -6,14 +6,16 @@
 - 할 수 있는 것: 카드 크기 · 형식(사진 배경 / 글+사진) · 사진 교체·비율·위치 · 폰트(기본 16종 · 폰트 파일 · 내 컴퓨터 폰트) · 색 · 문구 수정 · PNG 다운로드
 - 수정 내용은 각자 브라우저에만 저장된다.
 
-## 사진 출처 (Wikimedia Commons)
+## 사진 출처
 
-| 카드 | 저작자 | 라이선스 | 원본 |
-|---|---|---|---|
-| 1 | Lombroso | CC0 | https://commons.wikimedia.org/wiki/File:Tarako_spaghetti_with_okra_(2015.04.07).jpg |
-| 2 | hee17670 | CC0 | https://commons.wikimedia.org/wiki/File:Myeongnanjeot_(salted_pollock_roe).jpg |
-| 3 | kaex0r | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Mentaiko_spaghetti_by_kaex0r.jpg |
-| 4 | Chester Siu | Public domain | https://commons.wikimedia.org/wiki/File:Mentaiko_from_a_Fish_Market_in_Fukuoka.jpg |
-| 5 | Unknown | CC0 | https://commons.wikimedia.org/wiki/File:Mentaiko_Baguette.jpg |
-| 6 | ayustety | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Baked_mentaiko_by_ayustety_in_Marunouchi,_Tokyo.jpg |
-| 7 | Unknown | CC0 | https://commons.wikimedia.org/wiki/File:Mentaiko_Onigiri.jpg |
+やまやコミュニケーションズ(야마야) 공식 레시피 https://www.yamaya.com/recipe/ — 저작권은 야마야 코뮤니케이션즈에 있습니다.
+
+| 카드 | 원 레시피 (ID) |
+|---|---|
+| 1 | 和風明太子パスタ (345) |
+| 2 | 明太子まるごと使用した豪華卵焼き (287) |
+| 3 | 定番の明太子ペペロンチーノ (260) |
+| 4 | 명란 토핑 샐러드 (324) |
+| 5 | 牛乳で作る！明太子カルボナーラ (343) |
+| 6 | 塩昆布と大葉入り明太おにぎり (441) |
+| 7 | 明太子と青のりのうま味おにぎり (401) |
