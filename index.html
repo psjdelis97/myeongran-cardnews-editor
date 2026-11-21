@@ -458,7 +458,8 @@ async function fontCSS(idxs) {
       css += `@font-face{font-family:'${f}';font-weight:100 900;src:url(${custom.url});}\n`;
     } else if (f === 'Pretendard') {
       for (const w of ws) {
-        const src = await toDataURL(`https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/woff2/Pretendard-${PRET[w]}.woff2`);
+        // gh/orioncactus 경로의 개별 woff2는 404 — npm 패키지 경로를 쓴다
+        const src = await toDataURL(`https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-${PRET[w]}.woff2`);
         css += `@font-face{font-family:'Pretendard';font-weight:${w};src:url(${src}) format('woff2');}\n`;
       }
     } else {
